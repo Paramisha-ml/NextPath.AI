@@ -35,19 +35,13 @@ NextPath_AI/
 │   ├── career.png
 │
 ├── data/
-│   ├── nextpath_ai_career_dataset_v2.csv
-│   ├── college_dataset.csv
+│   ├── logical_nextpath_dataset.csv
 │   ├── program_info.json
 │
 ├── app.py
 ├── recommendation_engine.py
-├── dataset_handler.py
-├── model.py
-├── pdf_generator.py
-├── requirements.txt
+├── feedback.xlsx
 ├── styles.css
-│
-└── README.md
 ```
 
 ## Features
