@@ -62,11 +62,11 @@ NextPath_AI/
 - Program Information using JSON
 - Career Details with Duration & Specializations
 - Higher Education (PG) Suggestions
-
-# output : first interface
-
-<img width="1366" height="657" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/0386a6aa-5e4f-4c90-bb97-e20864e1305d" />
-
 - Career Opportunities & Job Roles
 - Previous Analysis History
 - Responsive and Modern UI
+
+  # output : first interface
+
+<img width="1366" height="657" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/0386a6aa-5e4f-4c90-bb97-e20864e1305d" />
+
