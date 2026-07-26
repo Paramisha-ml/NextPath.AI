@@ -1,0 +1,137 @@
+/* cd NextPath_AI */
+/* streamlit run app.py */
+
+/* ================= BACKGROUND ================= */
+[data-testid="stAppViewContainer"] > .main {
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e) !important;
+}
+
+.block-container {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+}
+
+/* Remove Streamlit default UI */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* ================= SIDEBAR ================= */
+section[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #141E30, #243B55);
+    border-right: 1px solid rgba(255,255,255,0.08);
+}
+
+/* ================= MAIN CONTAINER ================= */
+.main-container {
+    text-align: center;
+    margin-top: -40px;
+}
+
+/* ================= LOGO ================= */
+.logo-img {
+    width: 140px;
+    display: block;
+    margin: -40px auto 10px auto;
+    filter: drop-shadow(0px 0px 25px #8E2DE2);
+}
+
+/* ================= TITLE ================= */
+.app-title {
+    font-size: 42px;
+    font-weight: 800;
+    background: linear-gradient(90deg, #ffffff, #c471ed, #4a00e0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+/* ================= TAGLINE ================= */
+.tagline {
+    font-size: 18px;
+    color: #cccccc;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* ================= JOURNEY IMAGES ================= */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    filter: drop-shadow(0px 0px 20px rgba(142, 45, 226, 0.5));
+}
+
+/* ================= BUTTON ================= */
+.stButton {
+    display: flex;
+    justify-content: center;
+}
+
+.stButton > button {
+    border-radius: 30px;
+    background: linear-gradient(90deg, #8E2DE2, #4A00E0);
+    color: white;
+    font-weight: 600;
+    padding: 12px 30px;
+    border: none;
+    box-shadow: 0 0 20px #8E2DE2;
+    transition: 0.3s;
+}
+
+.stButton > button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 30px #8E2DE2;
+}
+
+/* Remove column background */
+div[data-testid="column"] {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+/* ================= JOURNEY CONNECT ================= */
+.journey-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0px; /* NO SPACE */
+    margin-top: 20px;
+}
+
+.journey-container img {
+    width: 33%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+/* Expanders Styling */
+div[data-testid="stExpander"] {
+    border-radius: 15px;
+    border: 1px solid rgba(255,255,255,0.1);
+    background: rgba(255,255,255,0.02);
+    margin-bottom: 10px;
+}
+
+/* FIX CLICK ISSUE */
+.journey-container {
+    position: relative;
+    z-index: 0;
+}
+
+.journey-container img {
+    pointer-events: none;  /* 🔥 THIS FIXES BUTTON CLICK */
+}
+
+/* Ensure buttons stay on top */
+.stButton {
+    position: relative;
+    z-index: 10;
+}
+
+.main-container {
+    position: relative;
+    z-index: 1;
+}

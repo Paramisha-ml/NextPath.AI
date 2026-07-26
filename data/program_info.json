@@ -1,0 +1,437 @@
+{
+  "MBBS": {
+    "duration": "5.5 years",
+    "specializations": ["General Medicine", "Surgery", "Pediatrics", "Orthopedics", "Dermatology", "Radiology", "Psychiatry"],
+    "pg_options": ["MD", "MS", "MBA Hospital Management", "MHA"],
+    "job_roles": ["Doctor", "Surgeon", "Medical Officer", "Consultant", "Hospital Administrator"],
+    "students_in_india": "1000000+"
+  },
+  "BDS": {
+    "duration": "5 years",
+    "specializations": ["Orthodontics", "Prosthodontics", "Oral Surgery", "Periodontics"],
+    "pg_options": ["MDS", "MBA Healthcare"],
+    "job_roles": ["Dentist", "Dental Surgeon", "Orthodontist"],
+    "students_in_india": "300000+"
+  },
+  "BAMS": {
+    "duration": "5.5 years",
+    "specializations": ["Ayurveda Medicine", "Panchakarma", "Surgery"],
+    "pg_options": ["MD Ayurveda"],
+    "job_roles": ["Ayurvedic Doctor", "Therapist", "Consultant"],
+    "students_in_india": "200000+"
+  },
+  "BHMS": {
+    "duration": "5.5 years",
+    "specializations": ["Homeopathy Medicine"],
+    "pg_options": ["MD Homeopathy"],
+    "job_roles": ["Homeopathic Doctor", "Consultant"],
+    "students_in_india": "150000+"
+  },
+  "BPT": {
+    "duration": "4.5 years",
+    "specializations": ["Orthopedic Physiotherapy", "Neurology", "Sports Physiotherapy"],
+    "pg_options": ["MPT"],
+    "job_roles": ["Physiotherapist", "Rehabilitation Specialist"],
+    "students_in_india": "120000+"
+  },
+  "B.Sc Nursing": {
+    "duration": "4 years",
+    "specializations": ["General Nursing", "Pediatric Nursing", "Psychiatric Nursing"],
+    "pg_options": ["MSc Nursing", "MBA Hospital Management"],
+    "job_roles": ["Nurse", "Staff Nurse", "Nursing Supervisor"],
+    "students_in_india": "800000+"
+  },
+  "B.Pharm": {
+    "duration": "4 years",
+    "specializations": ["Pharmacology", "Pharmaceutics", "Pharmaceutical Chemistry"],
+    "pg_options": ["MPharm", "MBA Pharma"],
+    "job_roles": ["Pharmacist", "Drug Inspector", "Medical Representative"],
+    "students_in_india": "600000+"
+  },
+  "B.Sc Biotechnology": {
+    "duration": "3 years",
+    "specializations": ["Genetic Engineering", "Molecular Biology"],
+    "pg_options": ["MSc Biotechnology", "MBA"],
+    "job_roles": ["Biotech Analyst", "Lab Technician", "Research Assistant"],
+    "students_in_india": "250000+"
+  },
+  "B.Sc Microbiology": {
+    "duration": "3 years",
+    "specializations": ["Industrial Microbiology", "Medical Microbiology"],
+    "pg_options": ["MSc Microbiology"],
+    "job_roles": ["Microbiologist", "Lab Analyst"],
+    "students_in_india": "180000+"
+  },
+  "B.Sc Genetics": {
+    "duration": "3 years",
+    "specializations": ["Human Genetics", "Molecular Genetics"],
+    "pg_options": ["MSc Genetics"],
+    "job_roles": ["Geneticist", "Research Scientist"],
+    "students_in_india": "100000+"
+  },
+  "B.Sc Agriculture": {
+    "duration": "4 years",
+    "specializations": ["Agronomy", "Horticulture", "Soil Science"],
+    "pg_options": ["MSc Agriculture", "MBA Agri Business"],
+    "job_roles": ["Agriculture Officer", "Farm Manager"],
+    "students_in_india": "500000+"
+  },
+  "BMLT": {
+    "duration": "3 years",
+    "specializations": ["Clinical Biochemistry", "Pathology"],
+    "pg_options": ["MMLT"],
+    "job_roles": ["Lab Technician", "Medical Lab Technologist"],
+    "students_in_india": "200000+"
+  },
+  "B.Tech": {
+    "duration": "4 years",
+    "specializations": ["Computer Science", "Mechanical", "Civil", "Electrical", "Electronics", "Chemical", "AI & ML", "Data Science", "Robotics", "Cyber Security"],
+    "pg_options": ["MTech", "MBA", "MS (Abroad)"],
+    "job_roles": ["Software Engineer", "Mechanical Engineer", "Civil Engineer", "Data Analyst", "System Engineer", "Product Engineer"],
+    "students_in_india": "4000000+"
+  },
+  "B.Tech IT": {
+  "duration": "4 years",
+  "specializations": ["Software Development", "Cloud Computing","Cybersecurity","Networking","Database Management"],
+  "pg_options": ["M.Tech IT", "MBA", "MS IT"],
+  "job_roles": ["Software Developer","System Administrator","Network Engineer","Cloud Engineer","IT Support Engineer"],
+  "students_in_india": "1500000+"
+  },
+  "B.Tech AI & ML": {
+    "duration": "4 years",
+    "specializations": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
+    "pg_options": ["MTech AI", "MS AI", "MBA"],
+    "job_roles": ["AI Engineer", "ML Engineer", "Data Scientist", "AI Researcher"],
+    "students_in_india": "300000+"
+  },
+  "B.Tech Data Science": {
+    "duration": "4 years",
+    "specializations": ["Big Data", "Data Analytics", "AI", "Statistics"],
+    "pg_options": ["MTech Data Science", "MBA"],
+    "job_roles": ["Data Scientist", "Data Analyst", "Business Analyst"],
+    "students_in_india": "250000+"
+  },
+  "B.Tech Computer Science": {
+  "duration": "4 years",
+  "specializations": ["Artificial Intelligence","Data Science","Machine Learning","Cybersecurity","Software Engineering","Cloud Computing"],
+  "pg_options": ["M.Tech CSE", "MBA", "MS Computer Science"],
+  "job_roles": ["Software Engineer","Data Scientist","AI Engineer","Full Stack Developer","Cybersecurity Analyst"],
+  "students_in_india": "3000000+"
+  },
+  "B.Sc Mathematics": {
+    "duration": "3 years",
+    "specializations": ["Pure Mathematics", "Applied Mathematics", "Statistics"],
+    "pg_options": ["MSc Mathematics", "MBA"],
+    "job_roles": ["Mathematician", "Data Analyst", "Teacher"],
+    "students_in_india": "300000+"
+  },
+  "BCA": {
+    "duration": "3 years",
+    "specializations": ["Software Development", "Web Development", "Database Management"],
+    "pg_options": ["MCA", "MBA"],
+    "job_roles": ["Software Developer", "Web Developer", "System Analyst"],
+    "students_in_india": "1000000+"
+  },
+  "B.Sc Computer Science": {
+    "duration": "3 years",
+    "specializations": ["Programming", "AI", "Cyber Security", "Data Science"],
+    "pg_options": ["MSc CS", "MCA", "MBA"],
+    "job_roles": ["Software Developer", "Data Analyst", "IT Specialist"],
+    "students_in_india": "800000+"
+  },
+  "B.Sc IT": {
+    "duration": "3 years",
+    "specializations": ["Networking", "Cloud Computing", "Cyber Security"],
+    "pg_options": ["MSc IT", "MCA"],
+    "job_roles": ["IT Support", "Network Engineer", "System Admin"],
+    "students_in_india": "700000+"
+  },
+  "B.Sc Data Science": {
+    "duration": "3 years",
+    "specializations": ["Machine Learning", "Big Data", "Analytics"],
+    "pg_options": ["MSc Data Science", "MBA"],
+    "job_roles": ["Data Analyst", "Junior Data Scientist"],
+    "students_in_india": "200000+"
+  },
+  "B.Sc AI": {
+    "duration": "3 years",
+    "specializations": ["Machine Learning", "Deep Learning"],
+    "pg_options": ["MSc AI", "MTech AI"],
+    "job_roles": ["AI Engineer", "ML Engineer"],
+    "students_in_india": "150000+"
+  },
+  "B.Sc Statistics": {
+    "duration": "3 years",
+    "specializations": ["Applied Statistics", "Data Analytics"],
+    "pg_options": ["MSc Statistics"],
+    "job_roles": ["Statistician", "Data Analyst"],
+    "students_in_india": "180000+"
+  },
+  "B.Sc Physics": {
+    "duration": "3 years",
+    "specializations": ["Astrophysics", "Nuclear Physics", "Electronics"],
+    "pg_options": ["MSc Physics"],
+    "job_roles": ["Researcher", "Lab Assistant", "Teacher"],
+    "students_in_india": "250000+"
+  },
+  "B.Arch": {
+    "duration": "5 years",
+    "specializations": ["Urban Planning", "Landscape Architecture"],
+    "pg_options": ["MArch"],
+    "job_roles": ["Architect", "Urban Planner"],
+    "students_in_india": "120000+"
+  },
+  "B.Des": {
+    "duration": "4 years",
+    "specializations": ["Product Design", "Fashion Design", "UI/UX Design"],
+    "pg_options": ["MDes", "MBA"],
+    "job_roles": ["Designer", "UI/UX Designer", "Product Designer"],
+    "students_in_india": "150000+"
+  },
+  "NDA": {
+    "duration": "3 years training",
+    "specializations": ["Army", "Navy", "Air Force"],
+    "pg_options": ["Defence Services Courses"],
+    "job_roles": ["Army Officer", "Navy Officer", "Air Force Officer"],
+    "students_in_india": "100000+"
+  },
+  "B.Com": {
+    "duration": "3 years",
+    "specializations": ["General", "Accounting", "Finance", "Taxation", "Banking"],
+    "pg_options": ["MCom", "MBA", "CA", "CMA"],
+    "job_roles": ["Accountant", "Banker", "Tax Consultant", "Auditor"],
+    "students_in_india": "3000000+"
+  },
+  "BBA": {
+    "duration": "3 years",
+    "specializations": ["Marketing", "Finance", "HR", "International Business", "Entrepreneurship"],
+    "pg_options": ["MBA", "PGDM"],
+    "job_roles": ["Business Analyst", "Marketing Executive", "HR Executive"],
+    "students_in_india": "1500000+"
+  },
+  "BMS": {
+    "duration": "3 years",
+    "specializations": ["Management", "Finance", "Marketing"],
+    "pg_options": ["MBA"],
+    "job_roles": ["Manager", "Business Executive"],
+    "students_in_india": "500000+"
+  },
+  "CA": {
+    "duration": "4.5-5 years",
+    "specializations": ["Audit", "Taxation", "Finance"],
+    "pg_options": ["CA Final", "MBA"],
+    "job_roles": ["Chartered Accountant", "Auditor", "Financial Consultant"],
+    "students_in_india": "800000+"
+  },
+  "CS": {
+    "duration": "3-4 years",
+    "specializations": ["Corporate Law", "Compliance"],
+    "pg_options": ["CS Final", "LLM", "MBA"],
+    "job_roles": ["Company Secretary", "Compliance Officer"],
+    "students_in_india": "200000+"
+  },
+  "CMA": {
+    "duration": "3-4 years",
+    "specializations": ["Cost Accounting", "Management Accounting"],
+    "pg_options": ["CMA Final", "MBA"],
+    "job_roles": ["Cost Accountant", "Financial Analyst"],
+    "students_in_india": "150000+"
+  },
+  "B.Com + LLB": {
+    "duration": "5 years",
+    "specializations": ["Corporate Law", "Tax Law"],
+    "pg_options": ["LLM", "MBA"],
+    "job_roles": ["Lawyer", "Legal Advisor"],
+    "students_in_india": "120000+"
+  },
+  "BBA + MBA": {
+    "duration": "5 years",
+    "specializations": ["Marketing", "Finance", "HR"],
+    "pg_options": ["PhD Management"],
+    "job_roles": ["Manager", "Consultant"],
+    "students_in_india": "100000+"
+  },
+  "BAF": {
+    "duration": "3 years",
+    "specializations": ["Accounting", "Finance"],
+    "pg_options": ["MCom", "MBA"],
+    "job_roles": ["Financial Analyst", "Accountant"],
+    "students_in_india": "200000+"
+  },
+  "BBI": {
+    "duration": "3 years",
+    "specializations": ["Banking", "Insurance"],
+    "pg_options": ["MBA"],
+    "job_roles": ["Bank Officer", "Insurance Manager"],
+    "students_in_india": "180000+"
+  },
+  "BFM": {
+    "duration": "3 years",
+    "specializations": ["Financial Markets", "Investment"],
+    "pg_options": ["MBA Finance"],
+    "job_roles": ["Stock Analyst", "Investment Banker"],
+    "students_in_india": "150000+"
+  },
+  "BHM": {
+    "duration": "3-4 years",
+    "specializations": ["Hotel Management", "Hospitality"],
+    "pg_options": ["MBA Hospitality"],
+    "job_roles": ["Hotel Manager", "Chef", "Hospitality Executive"],
+    "students_in_india": "250000+"
+  },
+  "BA": {
+    "duration": "3 years",
+    "specializations": ["General", "History", "Political Science", "Sociology", "Economics"],
+    "pg_options": ["MA", "MBA"],
+    "job_roles": ["Teacher", "Content Writer", "Civil Services"],
+    "students_in_india": "4000000+"
+  },
+  "BA Psychology": {
+    "duration": "3 years",
+    "specializations": ["Clinical Psychology", "Counseling Psychology", "Industrial Psychology"],
+    "pg_options": ["MA Psychology", "MSc Psychology"],
+    "job_roles": ["Psychologist", "Counselor", "HR"],
+    "students_in_india": "300000+"
+  },
+  "BA Political Science": {
+    "duration": "3 years",
+    "specializations": ["International Relations", "Public Administration"],
+    "pg_options": ["MA Political Science"],
+    "job_roles": ["Political Analyst", "Civil Services"],
+    "students_in_india": "250000+"
+  },
+  "BA History": {
+    "duration": "3 years",
+    "specializations": ["Ancient History", "Modern History"],
+    "pg_options": ["MA History"],
+    "job_roles": ["Historian", "Teacher", "Archaeologist"],
+    "students_in_india": "200000+"
+  },
+  "BA Sociology": {
+    "duration": "3 years",
+    "specializations": ["Social Work", "Rural Development"],
+    "pg_options": ["MA Sociology"],
+    "job_roles": ["Social Worker", "Researcher"],
+    "students_in_india": "180000+"
+  },
+  "BA English": {
+    "duration": "3 years",
+    "specializations": ["Literature", "Linguistics"],
+    "pg_options": ["MA English"],
+    "job_roles": ["Content Writer", "Editor", "Teacher"],
+    "students_in_india": "300000+"
+  },
+  "BA LLB": {
+    "duration": "5 years",
+    "specializations": ["Criminal Law", "Corporate Law"],
+    "pg_options": ["LLM"],
+    "job_roles": ["Lawyer", "Judge", "Legal Advisor"],
+    "students_in_india": "250000+"
+  },
+  "BJMC": {
+    "duration": "3 years",
+    "specializations": ["Journalism", "Mass Communication", "Digital Media"],
+    "pg_options": ["MJMC"],
+    "job_roles": ["Journalist", "News Anchor", "Content Creator"],
+    "students_in_india": "200000+"
+  },
+  "B.SW": {
+    "duration": "3 years",
+    "specializations": ["Community Development", "Medical Social Work"],
+    "pg_options": ["MSW"],
+    "job_roles": ["Social Worker", "NGO Worker"],
+    "students_in_india": "150000+"
+  },
+  "BFA": {
+    "duration": "4 years",
+    "specializations": ["Painting", "Sculpture", "Applied Arts"],
+    "pg_options": ["MFA"],
+    "job_roles": ["Artist", "Art Teacher", "Designer"],
+    "students_in_india": "100000+"
+  },
+  "B.Des Animation & Multimedia": {
+    "duration": "4 years",
+    "specializations": ["Animation", "VFX", "Multimedia"],
+    "pg_options": ["MDes"],
+    "job_roles": ["Animator", "VFX Artist", "Game Designer"],
+    "students_in_india": "120000+"
+  },
+  "Travel Tourism": {
+    "duration": "3 years",
+    "specializations": ["Tourism Management", "Travel Planning"],
+    "pg_options": ["MBA Tourism"],
+    "job_roles": ["Travel Agent", "Tour Manager"],
+    "students_in_india": "200000+"
+  },
+  "Hotel Management": {
+    "duration": "3-4 years",
+    "specializations": ["Hospitality", "Food Production"],
+    "pg_options": ["MBA Hospitality"],
+    "job_roles": ["Hotel Manager", "Chef"],
+    "students_in_india": "250000+"
+  },
+  "Diploma in Computer Applications": {
+    "duration": "6 months - 1 year",
+    "specializations": ["Basic Computing", "MS Office", "Internet Applications"],
+    "pg_options": ["Advanced Diploma", "Certifications"],
+    "job_roles": ["Computer Operator", "Office Assistant"],
+    "students_in_india": "500000+"
+  },
+  "BBM": {
+    "duration": "3 years",
+    "specializations": ["Marketing", "Finance", "HR"],
+    "pg_options": ["MBA"],
+    "job_roles": ["Business Manager", "Executive"],
+    "students_in_india": "300000+"
+  },
+  "Event Management": {
+    "duration": "1-3 years",
+    "specializations": ["Event Planning", "Wedding Planning", "Corporate Events"],
+    "pg_options": ["MBA Event Management"],
+    "job_roles": ["Event Manager", "Event Coordinator"],
+    "students_in_india": "200000+"
+  },
+  "Graphic Designing": {
+    "duration": "6 months - 2 years",
+    "specializations": ["UI Design", "Branding", "Illustration"],
+    "pg_options": ["Advanced Design Courses"],
+    "job_roles": ["Graphic Designer", "Visual Designer"],
+    "students_in_india": "400000+"
+  },
+  "UI/UX Design": {
+    "duration": "6 months - 2 years",
+    "specializations": ["User Interface", "User Experience", "Product Design"],
+    "pg_options": ["Advanced UX Courses"],
+    "job_roles": ["UI Designer", "UX Designer", "Product Designer"],
+    "students_in_india": "250000+"
+  },
+  "Digital Marketing": {
+    "duration": "6 months - 1 year",
+    "specializations": ["SEO", "Social Media Marketing", "Content Marketing", "PPC"],
+    "pg_options": ["MBA Marketing"],
+    "job_roles": ["Digital Marketer", "SEO Specialist", "Social Media Manager"],
+    "students_in_india": "600000+"
+  },
+  "Content Creation": {
+    "duration": "6 months - 1 year",
+    "specializations": ["YouTube", "Blogging", "Influencer Marketing"],
+    "pg_options": ["Advanced Media Courses"],
+    "job_roles": ["Content Creator", "YouTuber", "Influencer"],
+    "students_in_india": "700000+"
+  },
+  "Travel & Tourism": {
+    "duration": "1-3 years",
+    "specializations": ["Travel Planning", "Tour Operations"],
+    "pg_options": ["MBA Tourism"],
+    "job_roles": ["Travel Consultant", "Tour Operator"],
+    "students_in_india": "200000+"
+  },
+  "BSW": {
+    "duration": "3 years",
+    "specializations": ["Social Work", "NGO Management"],
+    "pg_options": ["MSW"],
+    "job_roles": ["Social Worker", "NGO Manager"],
+    "students_in_india": "150000+"
+  }
+}
+
